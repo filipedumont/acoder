@@ -17,3 +17,8 @@
 //= require bootstrap.min
 //= require bootstrap-material-design
 //= require bootstrap-datepicker
+
+
+$(document).ready(function(){
+	$('.datepicker').datepicker();
+});

@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'pg'
+
 gem 'bootstrap-material-design'
 
 gem 'responders', '~> 2.1.0'
