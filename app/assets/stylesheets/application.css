@@ -12,7 +12,11 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap.min
+ *= require bootstrap-material-design
+ *= require datepicker
  */
+
 
 body{
 	background-color: #6699aa;
